@@ -1,0 +1,16 @@
+C:\Users\Maria\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Maria\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Maria\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Maria\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Maria\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\sergi\Documents\C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\sergi\Documents\C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\sergi\Documents\C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\sergi\Documents\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\sergi\Documents\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Documents\C#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\sergi\Documents\C#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\sergi\Documents\C#\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\sergi\Documents\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
